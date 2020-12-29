@@ -31,7 +31,7 @@
 
 ## :dart: Sobre ##
 
-Projeto front-end de uma página do Twitter criado no curso bônus do Go Stack de Flexbox da Rocketseat.
+Projeto front-end de uma página do Twitter criado no curso bônus do Go Stack de Flexbox da <a href="https://rocketseat.com.br/"> Rocketseat. </a>
 
 <img src="images/twitter.jpg">
 
