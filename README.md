@@ -59,8 +59,8 @@ $ cd twitter-front-end
 
 ## :books: Onde aprender mais ##
 
-- <a href="https://origamid.com/projetos/flexbox-guia-completo/"> Guia completo de Flexbox </a>;
-- <a href="https://www.youtube.com/watch?v=dUkkOdhyO1w"> Entendendo o FlexBox no React Native - Rocketseat </a>
+- <a href="https://origamid.com/projetos/flexbox-guia-completo/"> Guia completo de Flexbox; </a>
+- <a href="https://www.youtube.com/watch?v=dUkkOdhyO1w"> Entendendo o FlexBox no React Native - Rocketseat. </a>
 
 ## :unlock: Licença ##
 
